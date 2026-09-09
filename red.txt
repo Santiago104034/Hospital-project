@@ -1,0 +1,5 @@
+4
+Jose 21 H
+Ana 23 M
+Maria 18 M
+Juan 22 H
